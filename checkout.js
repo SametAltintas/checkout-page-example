@@ -1,18 +1,3 @@
-// function createEventsForPlusMinus() {
-//     const minusBtns = document.querySelector(".fa-minus")
-//     const plusBtns = document.querySelector(".fa-plus")
-
-//     minusBtns.forEach((minus) => {
-//         minus.addEventListener("click",()=>{
-//             //? eksiltme islemleri
-//         })
-//     });
-//     plusBtns.forEach((plus) => {
-//         plus.addEventListener("click",()=>{
-//             //? arttirma islemleri
-//         })
-//     });
-// }
 const SHIPPING_PRICE = 25.99
 const FREE_SHIPPING_LIMIT = 3000
 const TAX_RATE = 0.18
